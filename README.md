@@ -317,10 +317,10 @@ argument is the base that should be used in parsing (e.g., `2` for binary or
 `10` for decimal). For example, `100` is `100` in decimal but `4` in binary:
 
 ```js
-Number.parseInt('100', 10);
+Number.parseInt("100", 10);
 //=> 100
 
-Number.parseInt('100', 2);
+Number.parseInt("100", 2);
 //=> 4
 ```
 
@@ -333,7 +333,7 @@ confusion.
 parsed into a floating-point number:
 
 ```js
-Number.parseFloat('3.14159');
+Number.parseFloat("3.14159");
 //=> 3.14159
 ```
 
