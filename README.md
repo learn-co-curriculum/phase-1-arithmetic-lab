@@ -1,4 +1,4 @@
-# JavaScript Fundamentals: Arithmetic Lab
+# Review: Arithmetic Lab
 
 ## Learning Goals
 
