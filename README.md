@@ -416,8 +416,6 @@ rely on the test failure messages to guide your code.
 4. Create a variable called `max` that finds the highest number in a set; the
    value returned should be `20`.
 
-![Good luck](https://user-images.githubusercontent.com/17556281/28846833-e671480c-76da-11e7-9285-17b5c592e065.gif)
-
 ## Resources
 
 * MDN
