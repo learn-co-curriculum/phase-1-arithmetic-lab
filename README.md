@@ -119,6 +119,14 @@ right number:
 
 ### Order of Operations
 
+Suppose you ask JavaScript to compute a statement such as this:
+
+`2 - 2 % 2 + 2 / 2 ** 2 * 2;`
+
+How will JavaScript know which operators to process first? Will it process them
+in a left-to-right order? (`2 - 2`, which gives 0, then `0 % 2`, and so on)? Or
+does it use a different set of rules?
+
 JavaScript evaluates compound arithmetic operations by following the standard
 [order of operations][pemdas] used in basic math. Anything in parentheses has
 highest priority; exponentiation is second; then multiplication, division, and
