@@ -18,6 +18,16 @@ lesson. Remember that we can't redeclare variables previously declared with
 declared variables) or different variable names can be chosen than those in the
 examples.
 
+## Getting Started
+
+If you haven't already, fork and clone this lab into your local environment.
+Remember to **fork** a copy into your GitHub account first, then **clone** from
+that copy. Navigate into its directory in the terminal, then run code . to open
+the files in Visual Studio Code.
+
+Next, run `npm install` to install the dependencies then run the test suite with
+the `npm test` command.
+
 ## Recognize the Limitations of Math in JavaScript
 
 **Math is awesome!** JavaScript has only a single, all-encompassing `number`
@@ -423,6 +433,14 @@ rely on the test failure messages to guide your code.
    remainder of dividing variable `num3` by `num4`; the remainder should be `4`.
 4. Create a variable called `max` that finds the highest number in a set; the
    value returned should be `20`.
+
+After you have all the tests passing, remember to commit and push your changes
+up to GitHub, then submit your work to Canvas using CodeGrade. If you need a
+reminder, go back to the [Completing and Submitting Assignments with
+CodeGrade][completing-codegrade] lesson to review the process.
+
+[completing-codegrade]: https://github.com/learn-co-curriculum/phase-1-completing-assignments-with-codegrade
+
 
 ## Resources
 
